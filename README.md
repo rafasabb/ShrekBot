@@ -1,0 +1,2 @@
+# ShrekBot
+Shrek Discord Bot
